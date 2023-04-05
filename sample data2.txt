@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"Helper pack 1","desc":"description1 ser","photo":"https://iili.io/HOlQwjp.jpg"},
-  {"title":"Advance pack 2","desc":"description2 ser","photo":"https://iili.io/HOlQjuR.jpg"},
-  {"title":"Tips mod 3","desc":"description3 ser","photo":"https://iili.io/HOlQenI.jpg"},
-  {"title":"Helper mod 4","desc":"description4 ser","photo":"https://iili.io/HOlQNZN.jpg"},
-  {"title":"Advice pack 5","desc":"description5 ser","photo":"https://iili.io/HOlQv6X.jpg"},
-  {"title":"How to use this app 6","desc":"description6 ser","photo":"https://iili.io/HOlQSFn.webp"},
-  {"title":"Helper mod 8","desc":"description7 ser","photo":"https://iili.io/HOlQkGt.jpg"},
-  {"title":"Tips mod ","desc":"description8 ser","photo":"https://iili.io/HOlQUas.webp"}
+  {"title":"Helper pack 1","desc":"Gardening has been a popular pastime for generations, but with the advancements in technology, it is no longer just a hobby, it has become a lifestyle. Garten Nabnab is an application that has revolutionized the way people approach gardening. This app is designed to provide gardeners with a platform that will help them grow healthy plants and maintain their garden with ease.","photo":"https://iili.io/HOlQwjp.jpg"},
+  {"title":"Advance pack 2","desc":"Generations have enjoyed gardening as a pastime, but thanks to technological improvements, it has evolved into a way of life. The application Garten Nabnab has transformed how people approach gardening. This app is made to give gardeners a platform that will enable them to easily maintain their gardens and develop healthy plants.","photo":"https://iili.io/HOlQjuR.jpg"},
+  {"title":"Tips mod 3","desc":"Garten Nabnab is a comprehensive application that offers a range of features to help gardeners of all levels. It is available on both Android and iOS platforms and can be downloaded for free. The app offers a simple and intuitive user interface that makes it easy for gardeners to navigate and use the various features.","photo":"https://iili.io/HOlQenI.jpg"},
+  {"title":"Helper mod 4","desc":"Gardeners of all skill levels can benefit from Garten Nabnab's extensive program, which provides a variety of functions. It can be downloaded for free and is offered for both the Android and iOS operating systems. Gardeners can easily access and use the app's different capabilities thanks to its clear and straightforward user interface.","photo":"https://iili.io/HOlQNZN.jpg"},
+  {"title":"Advice pack 5","desc":"One of the most significant features of Garten Nabnab is the plant identification tool. The app uses artificial intelligence (AI) to identify plants based on a photo taken by the user. This feature is particularly useful for novice gardeners who may not be familiar with the different types of plants. The app can identify thousands of plants, and it provides information on the plant's care requirements, including watering, sunlight, and fertilization.","photo":"https://iili.io/HOlQv6X.jpg"},
+  {"title":"How to use this app 6","desc":"The plant identification tool is one of Garten Nabnab's most important features. Based on a user-taken photo, the app uses artificial intelligence (AI) to identify plants. For new gardeners who might not be familiar with the many plant types, this function is especially helpful. The software can recognize thousands of different types of plants and provides details on how to take care of them, including how much water, sunlight, and fertilizer they need.","photo":"https://iili.io/HOlQSFn.webp"},
+  {"title":"Helper mod 8","desc":"Another feature that sets Garten Nabnab apart is the personalized garden journal. The app allows gardeners to keep track of their plants' growth and development, including photos, notes, and reminders for watering and fertilization. The app also provides useful information on the best time to plant specific crops, as well as tips on pest control and disease prevention.","photo":"https://iili.io/HOlQkGt.jpg"},
+  {"title":"Tips mod ","desc":"Garten Nabnab also offers a community feature that allows users to connect with other gardeners. Users can share their experiences, ask for advice, and even trade plants with others in the community. This feature is particularly helpful for beginners who may be unsure about how to care for their plants.","photo":"https://iili.io/HOlQUas.webp"}
 
    ]
  
