@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Helper pack 1","desc":"description1 ser","photo":"https://iili.io/HOlQwjp.jpg"},
+  {"title":"Advance pack 2","desc":"description2 ser","photo":"https://iili.io/HOlQjuR.jpg"},
+  {"title":"Tips mod 3","desc":"description3 ser","photo":"https://iili.io/HOlQenI.jpg"},
+  {"title":"Helper mod 4","desc":"description4 ser","photo":"https://iili.io/HOlQNZN.jpg"},
+  {"title":"Advice pack 5","desc":"description5 ser","photo":"https://iili.io/HOlQv6X.jpg"},
+  {"title":"How to use this app 6","desc":"description6 ser","photo":"https://iili.io/HOlQSFn.webp"},
+  {"title":"Helper mod 8","desc":"description7 ser","photo":"https://iili.io/HOlQkGt.jpg"},
+  {"title":"Tips mod ","desc":"description8 ser","photo":"https://iili.io/HOlQUas.webp"}
 
    ]
  
